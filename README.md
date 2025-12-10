@@ -75,11 +75,6 @@ The UI automatically adapts to all screen sizes.
 
 ---
 
-## 📝 License  
-This project is free to use for **learning, inspiration, and portfolio** purposes.
-
----
-
 ## 💛 Credits  
 Designed and built by **Nashrah Fathima**  
 Brand Concept: **Synkros - Because great connections start in sync.**
